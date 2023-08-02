@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "messaging",
+    "description": "This project is really great.",
+    "slug": "messaging",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.programmerandreh.messaging",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.andreh.messaging"
+    }
+  }
+}
